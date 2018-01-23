@@ -11,6 +11,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 Redux Shopping Cart - [Redux Shopping Cart Live Demo](https://leefsmp.github.io/redux-shopping-cart/build)
 
+![thumbnail](thumbnail.png)
+
 # Setup
 
  * Development
