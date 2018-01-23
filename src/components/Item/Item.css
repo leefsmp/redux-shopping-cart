@@ -1,0 +1,34 @@
+.item {
+  border: 1px solid #222222;
+  width: calc(100% - 5px);
+  margin: 0 0 8px 0;
+  height: 205px;
+  padding: 5px;
+}
+
+.item .thumbnail {
+  float: left;
+}
+
+.item .item-properties {
+  margin: 0 0 0 12px;
+  text-align: left;
+  float: left;
+}
+
+.item .item-properties .name {
+  margin: 0 0 8px 0;
+  font-size: 32px;
+}
+
+.item .item-properties .price {
+
+}
+
+.item .btn-add {
+  margin: 160px 12px 0 0;
+  cursor: pointer;
+  float: right;
+  width: 100px;
+  height: 32px;
+}

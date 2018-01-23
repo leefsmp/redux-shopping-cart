@@ -1,0 +1,25 @@
+.checkout {
+  height: 100%;
+}
+
+.checkout .title {
+  padding: 10px 12px;
+  font-weight: bold;
+  text-align: left;
+  font-size: 28px;
+}
+
+.checkout .table-container {
+  padding: 20px 50px 20px 50px;
+}
+
+.checkout .ReactTable .rt-table {
+  background: #dce4ca;
+}
+
+.checkout button {
+  margin: 10px 10px;
+  cursor: pointer;
+  height: 34px;
+  width: 150px;
+}
