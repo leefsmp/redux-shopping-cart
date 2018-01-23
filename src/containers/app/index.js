@@ -11,7 +11,7 @@ const App = () => (
       <header className="app-header">
         <img src={logo} className="app-logo" alt="logo"/>
         <h1 className="app-title">
-          Welcome!
+          Welcome To Fruits of the DOM!
         </h1>
         <Link className="app-link" to="/">
           Shop
